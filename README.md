@@ -18,11 +18,10 @@ Showcasing some innovative LangChain projects to explore the future of Large Lan
 - Integrates speech recognition → LangChain agent → action execution  
 - Example: *“Send me today’s weather report and schedule a reminder in Google Calendar”*  
 
----
-
 ## 🛠️ Tech Stack
 - [LangChain](https://www.langchain.com/)  
-- OpenAI / Anthropic / Llama-based LLMs (will try say open source if i am honest)  
+- OpenAI / Anthropic / Llama-based LLMs (will try stay with open source if I am honest)
+- Ollama models 
 - Vector Databases (FAISS, Pinecone, Weaviate)  
 - APIs (Google, Wikipedia, Finance APIs, etc.)  
 - Streamlit / Gradio for front-end demos
